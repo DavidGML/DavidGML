@@ -1,4 +1,10 @@
-### Hi there 👋
+Hi there! 🖐
+
+Contact: 
+
+📞 (+52 246 127 29 54)
+📧 davidgmlandero@gmail.com
+
 
 <!--
 **DavidGML/DavidGML** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
